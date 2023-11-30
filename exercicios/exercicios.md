@@ -178,12 +178,12 @@ $ rancher.<dominio> = IP do host A
 
 ### Criar cluster Kubernetes
 
-Nesse exercício iremos criar um cluster Kubernetes. Após criar o cluster, iremos instalar o kubectl no host A, e iremos usar para interagir com o cluster.
+Nesse exercício iremos criar um cluster Kubernetes. Após criar o cluster, iremos instalar o kubectl no host B, e iremos usar para interagir com o cluster.
 
 Seguir as instruções na aula para fazer o deployment do cluster.
 Após fazer a configuração, o Rancher irá exibir um comando de docker run, para adicionar os host's.
 
-Adicionar o host B e host C. 
+Adicionar o host C e host D. 
 
 Pegar o seu comando no seu rancher.
 ```sh
